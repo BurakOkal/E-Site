@@ -1,0 +1,19 @@
+.logo{
+    width: 100px;
+    height: 50px;
+}
+
+.search-input{
+    border: none;
+    border-bottom: 1px solid lightgray;
+    pad: 5px 10px;
+    outline: none;
+    margin-right: 10px;
+}
+.icon{
+    margin-right: 10px;
+    font-size: 20px;
+}
+.icon:hover{
+    cursor: pointer;
+}
